@@ -3,6 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 # 👋 Hi, I'm **Amr Hossam**
+# 👋 مرحبًا، أنا **عمرو حسام**
 🚀 Front-End Developer
 
 </div>
@@ -11,24 +12,22 @@
 
 ## 👨‍💻 About Me
 مرحبًا!  
-أنا **عمرو حسام**، مطور واجهات أمامية مهتم ببناء تجارب ويب متميزة،  
-أعمل باستخدام تقنيات الويب الحديثة و أسعى دائمًا للتعلم وتطوير نفسي لإنشاء مواقع  
-سريعة — منظمة — سهلة الاستخدام.
+أنا **عمرو حسام**، مطور واجهات أمامية مهتم ببناء تجارب ويب متميزة  
+باستخدام تقنيات الويب الحديثة لإنشاء مواقع سريعة — منظمة — سهلة الاستخدام.
 
 ---
 
 ## 🛠 Tech Stack
 
-### ✅ Front-End
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### ✅ Tools
-- Git
-- VS Code
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
